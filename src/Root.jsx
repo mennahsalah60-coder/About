@@ -1,7 +1,7 @@
 import { useState } from "react"
 import { NavLink, Outlet } from "react-router-dom"
-import burger from "./assets/components/heroSection/images/burger-simple-svgrepo-com.svg"
-import close from './assets/components/heroSection/images/close-svgrepo-com.svg'
+import burger from "./components/heroSection/images/burger-simple-svgrepo-com.svg"
+import close from './components/heroSection/images/close-svgrepo-com.svg'
 
 
 function Root() {

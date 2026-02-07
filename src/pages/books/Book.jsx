@@ -1,9 +1,9 @@
-import RecommendedProducts from '../../assets/components/RecommendedProducts/RecommendedProducts.jsx'
+import RecommendedProducts from '../../components/RecommendedProducts/RecommendedProducts.jsx'
 import './Book.css'
 
-import book1 from '../../assets/components/RecommendedProducts/images/book1.png'
-import book2 from '../../assets/components/RecommendedProducts/images/book2.png'
-import rate from '../../assets/components/RecommendedProducts/images/Frame 1000004764.png'
+import book1 from '../../components/RecommendedProducts/images/book1.png'
+import book2 from '../../components/RecommendedProducts/images/book2.png'
+import rate from '../../components/RecommendedProducts/images/Frame 1000004764.png'
 
 export default function Book() {
     return (

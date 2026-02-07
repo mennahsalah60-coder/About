@@ -6,7 +6,7 @@
 }
 
 .countainer {
-    background-image: url(../src/assets/components/heroSection/images/nav.png);
+    background-image: url(../src/components/heroSection/images/nav.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

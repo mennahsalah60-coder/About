@@ -1,13 +1,13 @@
 // import React from 'react'
-import OurFeatures from "../../assets/components/OurFeatures/features"
-import OurMission from "../../assets/components/OurMission/OurMission"
-import Questions from "../../assets/components/Questions/Questions"
+import OurFeatures from "../../components/OurFeatures/features"
+import OurMission from "../../components/OurMission/OurMission"
+import Questions from "../../components/Questions/Questions"
 import './About.css'
 
-import shipp from '../../assets/components/OurFeatures/images/shipping-fast 1.png'
-import creditCard from '../../assets/components/OurFeatures/images/credit-card-buyer 1.png'
-import restock from '../../assets/components/OurFeatures/images/restock 1.png'
-import user from '../../assets/components/OurFeatures/images/user-headset 1.png'
+import shipp from '../../components/OurFeatures/images/shipping-fast 1.png'
+import creditCard from '../../components/OurFeatures/images/credit-card-buyer 1.png'
+import restock from '../../components/OurFeatures/images/restock 1.png'
+import user from '../../components/OurFeatures/images/user-headset 1.png'
 
 
 function AboutUs() {
